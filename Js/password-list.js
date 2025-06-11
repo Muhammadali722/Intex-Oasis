@@ -103,10 +103,10 @@ let passwords = [
     },
     {
         id: 16,
-        username: "muhammadali",
-        password: "123",
-        firstname: "Muhammadali",
-        lastname: "Rustambekov"
+        username:"muhammadali",
+        password:"123",
+        firstname:"Muhammadali",
+        lastname:"Rustambekov"
     },
     {
         id:17,
